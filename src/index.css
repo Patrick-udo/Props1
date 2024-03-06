@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ourdiv{
+   
+  padding-top:30px ;
+  font-size: 40px;
+  color: white;
+  
+  
+  background-color: blue
+  
+  
+}
+.Div1{
+  font-size: 25px;
+  color: whitesmoke;
+  background-color: red;
+}
+.Italy{
+  font-size: 50px;
+  background-color:palevioletred;
+  color:white;
+  justify-content: center;
+  
+
+}
